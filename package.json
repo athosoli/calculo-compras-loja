@@ -1,0 +1,22 @@
+{
+  "name": "calculo-loja",
+  "version": "1.0.0",
+  "description": "Trabalho de conclusão de disciplina de Programação para Automação de Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athosoli/calculo-loja.git"
+  },
+  "author": "Athos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athosoli/calculo-loja/issues"
+  },
+  "homepage": "https://github.com/athosoli/calculo-loja#readme",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
